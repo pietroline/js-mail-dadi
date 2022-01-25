@@ -45,7 +45,8 @@ annulla.addEventListener("click",
 
     function(){
 
-        document.getElementById("annulla").value = "";
+        document.getElementById("email").value = "";
+        document.getElementById("password").value = "";
     }
 
 );
